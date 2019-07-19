@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/bin/Debug/netcoreapp2.2/GaryWholesale.deps.json
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/bin/Debug/netcoreapp2.2/GaryWholesale.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/bin/Debug/netcoreapp2.2/GaryWholesale.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/bin/Debug/netcoreapp2.2/GaryWholesale.dll
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/bin/Debug/netcoreapp2.2/GaryWholesale.pdb
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/obj/Debug/netcoreapp2.2/GaryWholesale.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/obj/Debug/netcoreapp2.2/GaryWholesale.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/obj/Debug/netcoreapp2.2/GaryWholesale.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/obj/Debug/netcoreapp2.2/GaryWholesale.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/obj/Debug/netcoreapp2.2/GaryWholesale.dll
+/Users/dekhaji/workspace/csharp/exercises/GaryWholesale/obj/Debug/netcoreapp2.2/GaryWholesale.pdb
